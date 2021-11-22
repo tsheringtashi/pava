@@ -1,0 +1,27 @@
+,LOCATION,PRECINCT,SPECIFIC_AREA,BOB_2017_RATE,BOB_2021_RATE,%DIFFERENCE,DERIVE FROM
+0,Chamkhar,Buffer Zone (BZ),(Chamkhar) Buffer Zone (BZ),196,186.57,-4.98%,FIAB
+1,Chamkhar,Extended (EXTD),(Chamkhar) Extended (EXTD),49,46,-4.98%,FIAB
+2,Chamkhar,Green Area (GA),(Chamkhar) Green Area (GA),49,46,-4.98%,FIAB
+3,Chamkhar,Historic Village (HV),(Chamkhar) Historic Village (HV),49,46,-4.98%,FIAB
+4,Chamkhar,Main Development Zone (MDZ),(Chamkhar) Main Development Zone (MDZ),190,181,-4.98%,FIAB
+5,Bathpalathang,Extended (EXTD), (Bathpalathang) Extended (EXTD) ,85,69,-18.82%,FIAB
+6,Dekiling,Buffer Zone (BZ),(Dekiling) Buffer Zone (BZ),49,0, -   %,
+7,Dekiling,Extended (EXTD),(Dekiling) Extended (EXTD),90,186.57,107.3%,FIAB
+8,Dekiling,Green Area (GA),(Dekiling) Green Area (GA),49,100.98,107.3%,FIAB
+9,Dekiling,Historic Village (HV),(Dekiling) Historic Village (HV),49,100.98,107.3%,FIAB
+10,Dekiling,Main Development Zone (MDZ),(Dekiling) Main Development Zone (MDZ),190,393.87,107.3%,FIAB
+11,Dekiling,Steep Slope Zone (SSZ),(Dekiling) Steep Slope Zone (SSZ), -   , -   ,,
+12,Gyelkhar,Buffer Zone (BZ),(Gyelkhar) Buffer Zone (BZ),49,,-100%,FIAB
+13,Gyelkhar,Extended (EXTD),(Gyelkhar) Extended (EXTD),50,50, -   %,FIAB
+14,Gyelkhar,Green Area (GA),(Gyelkhar) Green Area (GA),49,48.71, -   %,FIAB
+15,Gyelkhar,Historic Village (HV),(Gyelkhar) Historic Village (HV),49,48.71, -   %,FIAB
+16,Gyelkhar,Main Development Zone (MDZ),(Gyelkhar) Main Development Zone (MDZ),80,80, -   %,FIAB
+17,Gyelkhar,Steep Slope Zone (SSZ),(Gyelkhar) Steep Slope Zone (SSZ),49,0, -   %,
+18,BOD area (Above Road),,BOD area (Above Road),80,66,-17.5%,FIAB
+19,Wangduecholing,,Wangduecholing,116,107.2,-7.19%,FIAB
+20,Jakar Dzong area,,Jakar Dzong area,74,71,-3.4%,FIAB
+21,Kurje Lhakhang area,,Kurje Lhakhang area,58,63.46,9.88%,PAVA
+22,Tamzhing monastery area,,Tamzhing monastery area,49,90,84.77%,FIAB
+23,"Gangrithang ,Gongkhar area  ",,"Gangrithang ,Gongkhar area  ",80,65,-18.75%,FIAB
+24,Chumey (Town and School area),,Chumey (Town and School area),49,50,2.65%,FIAB
+25,"Gaytsa, Nangar",,"Gaytsa, Nangar", -   ,16.55,10.36%,PAVA
